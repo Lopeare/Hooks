@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+// The aim of custom hook is locate all logic in a separate function like this one:
 export const usePerson = (name = 'anonymous', location = 'anonymous') => {
 
     const [counter, setCounter] = useState(0)

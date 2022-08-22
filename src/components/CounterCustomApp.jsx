@@ -1,7 +1,7 @@
 import { usePerson } from '../hooks/useCounter';
 
 export const CounterCustomApp = () => {
-
+    // Here we have our component clean
     const { name, points, location, ...tools } = usePerson('raul', 'españa');
 
     return (

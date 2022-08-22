@@ -1,3 +1,2 @@
 # Hooks
-Differents Hooks explained and how to use them
-caca
+Differents Hooks explained and how to use them.

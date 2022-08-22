@@ -1,3 +1,6 @@
 # Hooks
+<<<<<<< HEAD
 Differents Hooks explained and how to use them
-cambios
+=======
+Differents Hooks explained and how to use them
+>>>>>>> 2f8ee25 (README.md)
